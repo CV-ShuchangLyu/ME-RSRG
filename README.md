@@ -45,5 +45,5 @@ In this work, we propose:
 </figcaption>
 </div>
 
-## News
+## News 🔥🔥
 [TBD] We will release the ME-RSRG Dataset soon.

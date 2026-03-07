@@ -44,3 +44,6 @@ In this work, we propose:
   <strong>Overview of EAR framework.</strong> We adopt a two-stage optimization strategy. SFT is first applied as a cold-start initialization. With SFT-parameters loaded to policy model, entity-aware reward-driven GRPO is then employed to further refine the model.
 </figcaption>
 </div>
+
+## News
+[TBD] We will release the ME-RSRG Dataset soon.

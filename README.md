@@ -2,11 +2,11 @@
 <h3> Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing </h3>
 
   <p align="center">
-    <a href='https://www.baidu.com'>
+    <a href='https://github.com/CV-ShuchangLyu/ME-RSRG'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'> </a>
-    <a href='https://www.baidu.com'  style='padding-left: 0.5rem;'>
+    <a href='https://github.com/CV-ShuchangLyu/ME-RSRG'  style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'> </a>
-    <a href='https://www.baidu.com' style='padding-left: 0.5rem;'>
+    <a href='https://github.com/CV-ShuchangLyu/ME-RSRG' style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/Hugging%20Face-Dataset-orange?logo=huggingface' alt='Dataset'>
   </p>
 </div>

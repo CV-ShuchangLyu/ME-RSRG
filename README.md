@@ -46,4 +46,15 @@ In this work, we propose:
 </div>
 
 ## News 🔥🔥
+[2026-03-16] The arxiv version of our paper is released!!
 [TBD] We will release the ME-RSRG Dataset soon.
+
+@misc{lyu2026thinkanswermebenchmarking,
+      title={Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing}, 
+      author={Shuchang Lyu and Haiquan Wen and Guangliang Cheng and Meng Li and Zheng Zhou and You Zhou and Dingding Yao and Zhenwei Shi},
+      year={2026},
+      eprint={2603.12788},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.12788}, 
+}

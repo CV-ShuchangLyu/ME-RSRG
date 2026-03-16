@@ -2,7 +2,7 @@
 <h3> Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing </h3>
 
   <p align="center">
-    <a href='https://github.com/CV-ShuchangLyu/ME-RSRG'>
+    <a href='https://arxiv.org/abs/2603.12788'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'> </a>
     <a href='https://github.com/CV-ShuchangLyu/ME-RSRG'  style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'> </a>

@@ -51,7 +51,8 @@ In this work, we propose:
 [TBD] We will release the ME-RSRG Dataset soon.
 
 
-# Please Cite
+
+## Please Cite
 ```
 @misc{lyu2026thinkanswermebenchmarking,
       title={Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing}, 

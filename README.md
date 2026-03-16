@@ -46,7 +46,7 @@ In this work, we propose:
 </div>
 
 ## News 🔥🔥
-[2026-03-16] The arxiv version of our paper is released!! [ArXiv version of this paper] (https://arxiv.org/abs/2603.12788)
+[2026-03-16] The arxiv version of our paper is released!! [ArXiv paper] (https://arxiv.org/abs/2603.12788)
 
 [TBD] We will release the ME-RSRG Dataset soon.
 

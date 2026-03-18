@@ -27,7 +27,7 @@ In this work, we propose:
 > ✅ **Two-Stage Optimization:** Combining supervised fine-tuning with entity-aware reward-driven GRPO.
 >
 
-# Proposed Dataset: ME-RSRG
+### Proposed Dataset: ME-RSRG
 
 <div align="left">
   <img src="Figs/Fig1.png" width="100%">
@@ -38,7 +38,7 @@ In this work, we propose:
 </figcaption>
 </div>
 
-# Proposed Method: EAR Framework
+### Proposed Method: EAR Framework
 <div align="left">
   <img src="Figs/Fig2.png" width="100%">
     <figcaption>
@@ -55,7 +55,7 @@ In this work, we propose:
 
 ## Implementation
 
-# Datasets: ME-RSRG
+### Datasets: ME-RSRG
 The original dataset contains the original images and annotations (.xml).
 
 * For each folder (rsvg_hr, dior_rsvg, opt-rsvg), we provide list (.txt) in ''Annotations'' folder

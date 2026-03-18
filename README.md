@@ -55,7 +55,10 @@ In this work, we propose:
 ## Datasets: ME-RSRG
 The original dataset contains the original images and annotations (.xml).
 
-* For each folder (rsvg_hr, dior_rsvg, opt-rsvg), we provide list (.txt) in ''Annotations'' folder 
+* For each folder (rsvg_hr, dior_rsvg, opt-rsvg), we provide list (.txt) in ''Annotations'' folder
+* In experiments, the ''train'' and ''val'' sets are merged for training while the ''test'' set is used for testing.
+* the ''train_with_think'' set provides the samples with ''<think></think>'' tags.
+* 
 
 ## Please Cite
 ```

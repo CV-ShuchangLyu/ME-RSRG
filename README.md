@@ -58,7 +58,8 @@ The original dataset contains the original images and annotations (.xml).
 * For each folder (rsvg_hr, dior_rsvg, opt-rsvg), we provide list (.txt) in ''Annotations'' folder
 * In experiments, the ''train'' and ''val'' sets are merged for training while the ''test'' set is used for testing.
 * The ''train_with_think'' set provides the instances with ''\<think\>\</think\>'' tags. This set is used in SFT stage.
-* The instances of ''train_with_think'' is a sub-set of ''train'' set, which means the instances in ''train_with_think''(removing \<think\> tags) are also used in GRPO stage 
+* The instances of ''train_with_think'' is a sub-set of ''train'' set, which means the instances in ''train_with_think'' (removing \<think\> tags) are also used in GRPO stage
+* **The three .json files are actually used for training (SFT & GRPO) and support the ms-wift data format. **
 
 ## Please Cite
 ```

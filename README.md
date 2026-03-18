@@ -46,9 +46,11 @@ In this work, we propose:
 </div>
 
 ## News 🔥🔥
+[2026-03-17] The original version of our proposed ME-RSRG is released!! [google drive](https://drive.google.com/file/d/1GRrDBYmYr0IuLXENR5ZmXmvswjcY0SEI/view?usp=drive_link)
+
 [2026-03-16] The arxiv version of our paper is released!! [ArXiv paper] (https://arxiv.org/abs/2603.12788)
 
-[TBD] We will release the ME-RSRG Dataset soon.
+[TBD] We plan to release the hf/modelscope version ME-RSRG Dataset soon.
 
 
 

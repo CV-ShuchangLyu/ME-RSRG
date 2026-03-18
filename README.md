@@ -14,8 +14,9 @@
 
 [Shuchang Lyu](https://scholar.google.com.hk/citations?user=SwGcxzMAAAAJ&hl=zh-TW), [Haiquan Wen](https://scholar.google.com/citations?user=hQadNAUAAAAJ), [Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=en), [Meng Li](https://scholar.google.com/citations?hl=zh-CN&user=wlI9uTYAAAAJ), [Zheng Zhou](https://scholar.google.com/citations?user=L5o4LTcAAAAJ&hl=en&oi=sra), [You Zhou](https://scholar.google.com.hk/citations?user=dfEZDv4AAAAJ&hl=en), [Dingding Yao](https://scholar.google.com/citations?user=UrqQkEsAAAAJ&hl=zh-CN), [Zhenwei Shi](https://scholar.google.com.hk/citations?user=kNhFWQIAAAAJ&hl=en&oi=ao)
 
+## Introduction
 
-Welcome to our work **EAR**, for multi-entity reasoning grounding in remote sensing.
+Welcome to our work **Think and Answer ME**, for multi-entity reasoning grounding in remote sensing.
 
 In this work, we propose:
 
@@ -26,7 +27,7 @@ In this work, we propose:
 > ✅ **Two-Stage Optimization:** Combining supervised fine-tuning with entity-aware reward-driven GRPO.
 >
 
-## Proposed Dataset: ME-RSRG
+# Proposed Dataset: ME-RSRG
 
 <div align="left">
   <img src="Figs/Fig1.png" width="100%">
@@ -37,7 +38,7 @@ In this work, we propose:
 </figcaption>
 </div>
 
-## Proposed Method: EAR Framework
+# Proposed Method: EAR Framework
 <div align="left">
   <img src="Figs/Fig2.png" width="100%">
     <figcaption>
@@ -52,7 +53,9 @@ In this work, we propose:
 
 [TBD] We plan to release the hf/modelscope version ME-RSRG Dataset soon.
 
-## Datasets: ME-RSRG
+## Implementation
+
+# Datasets: ME-RSRG
 The original dataset contains the original images and annotations (.xml).
 
 * For each folder (rsvg_hr, dior_rsvg, opt-rsvg), we provide list (.txt) in ''Annotations'' folder

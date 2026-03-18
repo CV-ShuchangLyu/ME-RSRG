@@ -52,7 +52,10 @@ In this work, we propose:
 
 [TBD] We plan to release the hf/modelscope version ME-RSRG Dataset soon.
 
+## Datasets: ME-RSRG
+The original dataset contains the original images and annotations (.xml).
 
+* For each folder (rsvg_hr, dior_rsvg, opt-rsvg), we provide list (.txt) in ''Annotations'' folder 
 
 ## Please Cite
 ```

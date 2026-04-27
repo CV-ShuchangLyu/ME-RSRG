@@ -47,7 +47,7 @@ In this work, we propose:
 </div>
 
 ## News 🔥🔥
-[2026-04-27] Our proposed ME-RSRG dataset is released on Hugging Face!! [Hugging Face](https://huggingface.co/datasets/AlleyOop26/ME-RSRG/tree/main)
+[2026-04-27] Our proposed ME-RSRG dataset is released on Hugging Face!! [Hugging Face Dataset](https://huggingface.co/datasets/AlleyOop26/ME-RSRG/tree/main) Our Arxiv paper is also uploaded on Hugging Face!! [Hugging Face Paper](https://huggingface.co/papers/2603.12788)
 
 [2026-03-17] The original version of our proposed ME-RSRG dataset is released!! [google drive](https://drive.google.com/file/d/1GRrDBYmYr0IuLXENR5ZmXmvswjcY0SEI/view?usp=drive_link)
 

@@ -69,8 +69,8 @@ The original dataset contains the original images and annotations (.xml).
 ### Models: EAR
 | Model Name | Acc@0.5(sub./obj./mean) | Download Link |
 | :--- | :---: | :--- |
-| **EAR-Qwen3-VL-4B** | 38.52/36.83/37.65 | [![Hugging Face](https://huggingface.co/AlleyOop26/EAR-Qwen3-VL-4B) |
-| **EAR-Qwen2.5-VL-7B** | 0.00% | TBD |
+| **EAR-Qwen3-VL-4B** | 38.52/36.83/37.65 | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/AlleyOop26/EAR-Qwen3-VL-4B)|
+| **EAR-Qwen2.5-VL-7B** | 44.40/48.90/46.72 | TBD |
 
 ## Please Cite
 ```

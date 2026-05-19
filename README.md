@@ -47,6 +47,8 @@ In this work, we propose:
 </div>
 
 ## News 🔥🔥
+[2026-05-19] Our proposed EAR model series is released on Hugging Face!! [Hugging Face Models](https://huggingface.co/AlleyOop26)
+
 [2026-04-27] Our proposed ME-RSRG dataset is released on Hugging Face!! [Hugging Face Dataset](https://huggingface.co/datasets/AlleyOop26/ME-RSRG/tree/main) Our Arxiv paper is also uploaded on Hugging Face!! [Hugging Face Paper](https://huggingface.co/papers/2603.12788)
 
 [2026-03-17] The original version of our proposed ME-RSRG dataset is released!! [google drive](https://drive.google.com/file/d/1GRrDBYmYr0IuLXENR5ZmXmvswjcY0SEI/view?usp=drive_link)
@@ -68,6 +70,7 @@ The original dataset contains the original images and annotations (.xml).
 | Model Name | Acc@0.5 | Download Link |
 | :--- | :---: | :--- |
 | **EAR-Qwen3-VL-4B** | 0.00% | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/AlleyOop26/ME-RSRG_Qwen-3-4B-VL-Instruct) |
+| **ME-RSRG_Qwen-base-placeholder** | 0.00% | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](#) |
 | **ME-RSRG_Qwen-base-placeholder** | 0.00% | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](#) |
 
 ## Please Cite

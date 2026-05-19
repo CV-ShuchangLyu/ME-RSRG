@@ -67,11 +67,10 @@ The original dataset contains the original images and annotations (.xml).
 * **The three .json files are actually used for training (SFT & GRPO) and support the ms-swift data format.**
 
 ### Models: EAR
-| Model Name | Acc@0.5 | Download Link |
+| Model Name | Acc@0.5(sub./obj./mean) | Download Link |
 | :--- | :---: | :--- |
-| **EAR-Qwen3-VL-4B** | 0.00% | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/AlleyOop26/ME-RSRG_Qwen-3-4B-VL-Instruct) |
-| **ME-RSRG_Qwen-base-placeholder** | 0.00% | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](#) |
-| **ME-RSRG_Qwen-base-placeholder** | 0.00% | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](#) |
+| **EAR-Qwen3-VL-4B** | 38.52/36.83/37.65 | [![Hugging Face](https://huggingface.co/AlleyOop26/EAR-Qwen3-VL-4B) |
+| **EAR-Qwen2.5-VL-7B** | 0.00% | TBD |
 
 ## Please Cite
 ```

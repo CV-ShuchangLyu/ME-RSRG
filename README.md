@@ -53,8 +53,6 @@ In this work, we propose:
 
 [2026-03-16] The arxiv version of our paper is released!! [ArXiv paper] (https://arxiv.org/abs/2603.12788)
 
-[TBD] We plan to release the hf/modelscope version ME-RSRG Dataset soon.
-
 ## Implementation
 
 ### Datasets: ME-RSRG
@@ -65,6 +63,12 @@ The original dataset contains the original images and annotations (.xml).
 * The ''train_with_think'' set provides the instances with ''\<think\>\</think\>'' tags. This set is used in SFT stage.
 * The instances of ''train_with_think'' is a sub-set of ''train'' set, which means the instances in ''train_with_think'' (removing \<think\> tags) are also used in GRPO stage
 * **The three .json files are actually used for training (SFT & GRPO) and support the ms-swift data format.**
+
+### Models: EAR
+| Model Name | Acc@0.5 | Download Link |
+| :--- | :---: | :--- |
+| **EAR-Qwen3-VL-4B** | 0.00% | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/AlleyOop26/ME-RSRG_Qwen-3-4B-VL-Instruct) |
+| **ME-RSRG_Qwen-base-placeholder** | 0.00% | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](#) |
 
 ## Please Cite
 ```

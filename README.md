@@ -51,6 +51,8 @@ In this work, we propose:
 
 [TBD] Realease all models one-by-one.
 
+[2026-07-03] We improve our proposed EAR model series to EARI, more models will be available soon!! [Hugging Face Models](https://huggingface.co/AlleyOop26)
+
 [2026-05-19] Our proposed EAR model series is released on Hugging Face!! [Hugging Face Models](https://huggingface.co/AlleyOop26)
 
 [2026-04-27] Our proposed ME-RSRG dataset is released on Hugging Face!! [Hugging Face Dataset](https://huggingface.co/datasets/AlleyOop26/ME-RSRG/tree/main) Our Arxiv paper is also uploaded on Hugging Face!! [Hugging Face Paper](https://huggingface.co/papers/2603.12788)

@@ -76,8 +76,9 @@ The original dataset contains the original images and annotations (.xml).
 | Model Name | Acc@0.5(sub./obj./mean) | Download Link | Model Name | Acc@0.5(sub./obj./mean) | Download Link | 
 | :--- | :---: | :--- |:--- | :---: | :--- |
 | **EAR-Qwen3-VL-4B** | 38.52/36.83/37.65 | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/AlleyOop26/EAR-Qwen3-VL-4B)| **EARI-Qwen3-VL-4B** | 41.38/39.14/40.22 | TBD|
-| **EAR-Qwen2.5-VL-3B** | 38.63/42.08/40.41 |[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/AlleyOop26/EAR-Qwen2.5-VL-3B)|
-| **EAR-Qwen2.5-VL-7B** | 44.40/48.90/46.72 | TBD |
+| **EAR-Qwen2.5-VL-3B** | 38.63/42.08/40.41 |[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/AlleyOop26/EAR-Qwen2.5-VL-3B)|**EARI-Qwen2.5-VL-3B** | 36.34/44.02/40.30 | TBD|
+| **EAR-Qwen2.5-VL-7B** | 44.40/48.90/46.72 | TBD |**EARI-Qwen2.5-VL-3B** | TBD | TBD|
+| **EAR-Qwen2-VL-2B** | 27.55/22.93/25.16 | TBD |**EARI-Qwen2-VL-2B** | 30.29/28.02/29.12 | TBD|
 
 ## Please Cite
 ```

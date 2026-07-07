@@ -1,10 +1,6 @@
 <div align="center">
 <h3> Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing </h3>
 
-<div align="left">
-  <img src="Figs/Github_icon.png" width="100%">
-</div>
-
   <p align="center">
     <a href='https://arxiv.org/abs/2603.12788'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'> </a>
@@ -17,6 +13,10 @@
 
 
 [Shuchang Lyu](https://scholar.google.com.hk/citations?user=SwGcxzMAAAAJ&hl=zh-TW), [Haiquan Wen](https://scholar.google.com/citations?user=hQadNAUAAAAJ), [Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ&hl=en), [Meng Li](https://scholar.google.com/citations?hl=zh-CN&user=wlI9uTYAAAAJ), [Zheng Zhou](https://scholar.google.com/citations?user=L5o4LTcAAAAJ&hl=en&oi=sra), [You Zhou](https://scholar.google.com.hk/citations?user=dfEZDv4AAAAJ&hl=en), [Dingding Yao](https://scholar.google.com/citations?user=UrqQkEsAAAAJ&hl=zh-CN), [Zhenwei Shi](https://scholar.google.com.hk/citations?user=kNhFWQIAAAAJ&hl=en&oi=ao)
+
+<div align="left">
+  <img src="Figs/Github_icon.png" width="100%">
+</div>
 
 ## Introduction
 

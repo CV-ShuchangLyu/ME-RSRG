@@ -55,6 +55,8 @@ In this work, we propose:
 
 [TBD] Realease all models one-by-one.
 
+[2026-07-03] We fix our evaluation code. The code will be released soon!! The results will be updated soon!!
+
 [2026-07-03] We improve our proposed **EAR** to **EARI**, more models will be available soon!! [Hugging Face Models](https://huggingface.co/AlleyOop26)
 
 [2026-05-19] Our proposed EAR model series is released on Hugging Face!! [Hugging Face Models](https://huggingface.co/AlleyOop26)

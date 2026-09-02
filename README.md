@@ -42,11 +42,20 @@ In this work, we propose:
 </figcaption>
 </div>
 
-### Proposed Method: EAR Framework
+### Proposed Baseline Method: EAR Framework
 <div align="left">
   <img src="Figs/Fig2.png" width="100%">
     <figcaption>
   <strong>Overview of EAR framework.</strong> We adopt a two-stage optimization strategy. SFT is first applied as a cold-start initialization. With SFT-parameters loaded to policy model, entity-aware reward-driven GRPO is then employed to further refine the model.
+</figcaption>
+</div>
+
+### Proposed Improved Method: EARI Framework
+<div align="left">
+  <img src="Figs/Fig3.png" width="100%">
+    <figcaption>
+  <strong>Overview of EARI framework.</strong>  EARI is integrated into the language model decoder as an intermediate residual module, which consists of a
+three-stage entity-relation aware cross-attention pipeline.
 </figcaption>
 </div>
 
